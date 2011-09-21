@@ -1,0 +1,2 @@
+<P(?x)/\AX.(P(X)->P(?f(X)))->P(?f(?f(?x))),
+ EZ.p(0, Z)/\AX.(EZ.p(X, Z)->EZ.p(s(X), Z))->EZ.p(s(s(0)), Z)>
